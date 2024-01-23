@@ -4,5 +4,12 @@ mkdir
 cp
 mv
 Git pull
-Git pusha 
+Git push
+mv
 
+
+
+
+
+
+Change
