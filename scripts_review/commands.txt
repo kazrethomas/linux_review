@@ -3,4 +3,6 @@ cd
 mkdir
 cp
 mv
-Shareika 
+Git pull
+Git pusha 
+
