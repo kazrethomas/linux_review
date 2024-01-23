@@ -3,4 +3,4 @@ cd
 mkdir
 cp
 mv
-rm
+Shareika 
