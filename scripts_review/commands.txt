@@ -4,3 +4,5 @@ mkdir
 cp
 mv
 rm
+rmdir
+touch
